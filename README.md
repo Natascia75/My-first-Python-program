@@ -1,1 +1,1 @@
-
+With my first Python-program I created a list of numbers by keyboard as user input, then printed the list and later calculated the total sum of the numbers with the help of for loop and printed the final result.
